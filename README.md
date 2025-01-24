@@ -1,0 +1,4 @@
+# Introduction
+This is the implement of "Better Augmentation Makes Better Contrast: Community-invariant Multi-scale Graph Contrastive Learning Framework for Brain Disorder Prediction". Submitting to IJCAI
+
+we introduce \textbf{C}ommunity-invariant \textbf{M}ulti-scale \textbf{G}raph \textbf{C}ontrastive \textbf{L}earning framework~(\textbf{CMGCL}) to fill this gap. This framework applies graph contrastive learning to mitigate the impact of data scarcity. Moreover, CMGCL introduces a novel community-invariant augmentation that eliminates redundant information while preserving the functional community integrity of brain networks, thereby effectively generating high-quality brain networks. Finally, it incorporates a multi-scale contrastive loss designed to effectively extract fine-grained differences between healthy and disorder brain networks, enhancing the discriminative power of brain network representations.
